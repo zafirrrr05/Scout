@@ -40,29 +40,29 @@ Free Text (EN/AR)
       │
       ▼
 ┌─────────────────┐
-│ Situation        │  Claude Haiku — structured extraction
-│ Extraction Agent │──► SituationProfile (Pydantic validated)
+│ Situation       │  Claude Haiku — structured extraction
+│ Extraction Agent│──► SituationProfile (Pydantic validated)
 └─────────────────┘
       │
       ▼
 ┌─────────────────┐
-│ Graph Traversal  │  NetworkX — deterministic forward walk
-│ Engine           │──► Future Nodes (3-5, time-ordered)
+│ Graph Traversal │  NetworkX — deterministic forward walk
+│ Engine          │──► Future Nodes (3-5, time-ordered)
 └─────────────────┘
       │
       ▼
 ┌─────────────────┐
-│ RAG Engine       │  ChromaDB + text-embedding-3-small
+│ RAG Engine      │  ChromaDB + text-embedding-3-small
 └─────────────────┘──► Ranked Products + Content per Node
       │
       ▼
 ┌─────────────────┐  Claude Sonnet (EN brief)
-│ Brief Generator  │  Qwen-72B via OpenRouter (AR brief, native)
+│ Brief Generator │  Qwen-72B via OpenRouter (AR brief, native)
 └─────────────────┘──► ScoutBrief (Pydantic validated)
       │
       ▼
 ┌─────────────────┐
-│ React Frontend   │  Timeline + Unknown Unknowns + Products
+│ React Frontend  │  Timeline + Unknown Unknowns + Products
 └─────────────────┘
 ```
 
