@@ -1,0 +1,726 @@
+{
+  "nodes": [
+    {
+      "id": "early_pregnancy",
+      "label": "Early Pregnancy (4–12 weeks)",
+      "label_ar": "الحمل المبكر (٤–١٢ أسبوعًا)",
+      "category": "pregnancy",
+      "weeks_range": [4, 12],
+      "preview": "First trimester — the hidden weeks",
+      "preview_ar": "الثلث الأول من الحمل",
+      "products_needed": ["prenatal_vitamins", "morning_sickness_bands", "maternity_bra_soft"],
+      "decisions_coming": ["OB vs midwife", "birth announcement timing", "prenatal testing"],
+      "unknown_unknowns": [
+        "Your bra size will change dramatically — buying maternity bras now saves money later",
+        "Morning sickness peaks at week 9, not at the start — prepare for the worst week 8–10",
+        "You'll need a pregnancy pillow by trimester two — the good ones sell out fast"
+      ],
+      "unknown_unknowns_ar": [
+        "مقاس حمالة الصدر سيتغير بشكل كبير — شراء حمالات الأمومة الآن يوفر المال لاحقاً",
+        "الغثيان يبلغ ذروته في الأسبوع التاسع، وليس في البداية — استعدي للأسابيع ٨–١٠",
+        "ستحتاجين وسادة الحمل في الثلث الثاني — النوعية الجيدة تنفد بسرعة"
+      ],
+      "common_mistakes": ["buying_full_maternity_wardrobe_early", "skipping_prenatal_vitamins"],
+      "safety_flags": []
+    },
+    {
+      "id": "second_trimester",
+      "label": "Second Trimester (13–26 weeks)",
+      "label_ar": "الثلث الثاني من الحمل (١٣–٢٦ أسبوعًا)",
+      "category": "pregnancy",
+      "weeks_range": [13, 26],
+      "preview": "Energy returns — best time to prepare",
+      "preview_ar": "عودة الطاقة — أفضل وقت للاستعداد",
+      "products_needed": ["pregnancy_pillow", "maternity_clothes", "belly_band"],
+      "decisions_coming": ["anatomy_scan", "baby_name", "nursery_planning", "birth_class_registration"],
+      "unknown_unknowns": [
+        "Anatomy scan at week 20 — if you want to decorate by gender, book it now",
+        "Birth classes fill up months in advance — register by week 20 not week 36",
+        "Colostrum can start leaking as early as week 16 — nursing pads now, not at birth"
+      ],
+      "unknown_unknowns_ar": [
+        "فحص التشريح في الأسبوع العشرين — إذا أردتِ ديكور الجنس، احجزي الآن",
+        "دورات الولادة تمتلئ قبل أشهر — سجلي بحلول الأسبوع العشرين",
+        "يمكن أن يبدأ تسرب اللبأ من الأسبوع ١٦ — وسادات الإرضاع الآن وليس عند الولادة"
+      ],
+      "common_mistakes": ["waiting_too_long_for_baby_gear_research", "not_booking_birth_class"],
+      "safety_flags": []
+    },
+    {
+      "id": "28_weeks_pregnant",
+      "label": "28 Weeks Pregnant",
+      "label_ar": "٢٨ أسبوعًا من الحمل",
+      "category": "pregnancy",
+      "weeks_range": [26, 30],
+      "preview": "Third trimester begins — real prep starts now",
+      "preview_ar": "بداية الثلث الثالث — الاستعداد الحقيقي يبدأ الآن",
+      "products_needed": ["nursing_pillow", "car_seat_infant", "stroller", "breast_pump"],
+      "decisions_coming": ["breastfeeding_vs_formula", "pediatrician_selection", "birth_plan", "mat_leave_planning"],
+      "unknown_unknowns": [
+        "Stroller width varies by 10cm — measure your building elevator door now, not after delivery",
+        "A car seat must be installed before you leave the hospital — practice the installation this week",
+        "Breast pump insurance coverage — check your plan now, the good ones need 2–3 weeks to arrive",
+        "Hospital bag should be packed by week 36, not week 40 — babies don't read due dates"
+      ],
+      "unknown_unknowns_ar": [
+        "عرض العربة يتفاوت بمقدار ١٠ سم — قيسي باب مصعد المبنى الآن، وليس بعد الولادة",
+        "يجب تركيب مقعد السيارة قبل مغادرة المستشفى — تدربي على التركيب هذا الأسبوع",
+        "شحن مضخة الثدي يستغرق أسبوعين — اطلبيها الآن",
+        "حقيبة المستشفى يجب أن تكون جاهزة بحلول الأسبوع ٣٦"
+      ],
+      "common_mistakes": ["buying_only_newborn_size_clothes", "no_car_seat_before_birth", "leaving_breast_pump_too_late"],
+      "safety_flags": []
+    },
+    {
+      "id": "32_weeks_pregnant",
+      "label": "32 Weeks Pregnant",
+      "label_ar": "٣٢ أسبوعًا من الحمل",
+      "category": "pregnancy",
+      "weeks_range": [30, 34],
+      "preview": "Gear decisions must be final",
+      "preview_ar": "قرارات المعدات يجب أن تكون نهائية",
+      "products_needed": ["hospital_bag_items", "newborn_clothes_0_3m", "bassinet", "white_noise_machine"],
+      "decisions_coming": ["hospital_bag_packing", "birth_partner_preparation", "postpartum_help_plan"],
+      "unknown_unknowns": [
+        "White noise machine — you'll want it night 1, not week 2. Order now",
+        "Newborn clothes sizing: most babies skip 'newborn' size entirely. Buy 0–3M",
+        "Postpartum care for you — nobody tells moms to prep for themselves, only the baby"
+      ],
+      "unknown_unknowns_ar": [
+        "جهاز الضوضاء البيضاء — ستحتاجينه في الليلة الأولى. اطلبيه الآن",
+        "مقاسات الملابس: معظم الأطفال يتخطون مقاس 'المولود الجديد'. اشتري مقاس ٠–٣ أشهر",
+        "العناية بالأم بعد الولادة — لا أحد يخبر الأمهات بالاستعداد لأنفسهن"
+      ],
+      "common_mistakes": ["buying_too_many_newborn_size", "forgetting_postpartum_recovery_items"],
+      "safety_flags": []
+    },
+    {
+      "id": "36_weeks_pregnant",
+      "label": "36 Weeks — Nesting Mode",
+      "label_ar": "٣٦ أسبوعًا — مرحلة التعشيش",
+      "category": "pregnancy",
+      "weeks_range": [34, 38],
+      "preview": "Any day now — final preparations",
+      "preview_ar": "في أي وقت — الاستعدادات الأخيرة",
+      "products_needed": ["hospital_bag_complete", "car_seat_installed", "bassinet_assembled"],
+      "decisions_coming": ["hospital_registration", "birth_plan_finalization", "emergency_contacts"],
+      "unknown_unknowns": [
+        "GBS test at week 36 — affects your labor plan, ask your OB about it now",
+        "Pre-register at the hospital now — paperwork in labor is miserable",
+        "Pack two hospital bags: one for labor, one for postpartum. Different needs"
+      ],
+      "unknown_unknowns_ar": [
+        "فحص المكورات العقدية في الأسبوع ٣٦ — يؤثر على خطة الوضع، اسألي طبيبتك",
+        "سجلي في المستشفى الآن — الأوراق أثناء المخاض مؤلمة",
+        "احزمي حقيبتين: واحدة للمخاض وواحدة لما بعد الولادة"
+      ],
+      "common_mistakes": ["not_preregistering_hospital", "unpacked_hospital_bag"],
+      "safety_flags": []
+    },
+    {
+      "id": "preterm_risk",
+      "label": "Preterm Risk (Special)",
+      "label_ar": "خطر الولادة المبكرة",
+      "category": "special",
+      "weeks_range": [24, 36],
+      "preview": "Additional preparation needed",
+      "preview_ar": "استعداد إضافي مطلوب",
+      "products_needed": ["preterm_baby_clothes_tiny", "nicu_comfort_items"],
+      "decisions_coming": ["hospital_nicu_availability", "steroid_shots_discussion", "early_mat_leave"],
+      "unknown_unknowns": [
+        "NICU hospitals in the UAE — not all hospitals have Level 3 NICUs. Know yours",
+        "Preterm babies need different car seats — check weight minimums before buying",
+        "Kangaroo care items — skin-to-skin in the NICU requires specific clothing"
+      ],
+      "unknown_unknowns_ar": [
+        "وحدات العناية المركزة للأطفال في الإمارات — ليس كل المستشفيات لديها وحدة مستوى ٣",
+        "الأطفال المبتسرون يحتاجون مقاعد سيارة مختلفة",
+        "ملابس خاصة للرعاية الكنغرية في وحدة العناية المركزة"
+      ],
+      "common_mistakes": ["buying_standard_car_seat_for_preterm", "not_knowing_nicu_level"],
+      "safety_flags": ["check_car_seat_weight_minimum_for_preterm"]
+    },
+    {
+      "id": "twins_pregnancy",
+      "label": "Twin Pregnancy",
+      "label_ar": "حمل التوأم",
+      "category": "special",
+      "weeks_range": [4, 38],
+      "preview": "Everything x2 — but not everything",
+      "preview_ar": "كل شيء مضاعف — لكن ليس كل شيء",
+      "products_needed": ["twin_stroller", "double_nursing_pillow", "twin_bassinet", "extra_newborn_items"],
+      "decisions_coming": ["twin_birth_plan", "nicu_awareness", "feeding_strategy_twins", "extra_childcare"],
+      "unknown_unknowns": [
+        "Twin strollers are 10–15cm wider than single — measure every doorway and elevator now",
+        "You will need double the bottles, nipples, pacifiers — order in bulk now",
+        "Twins often arrive 3–6 weeks early — all baby gear must be ready by week 32",
+        "Double nursing pillow is different from a standard nursing pillow — specific product needed"
+      ],
+      "unknown_unknowns_ar": [
+        "عربات التوأم أعرض بـ١٠–١٥ سم — قيسي كل باب ومصعد الآن",
+        "ستحتاجين ضعف الزجاجات والحلمات والمصاصات — اطلبي بالجملة",
+        "التوائم يصلون في الغالب قبل ٣–٦ أسابيع — جهزي كل شيء بحلول الأسبوع ٣٢",
+        "وسادة الرضاعة المزدوجة مختلفة عن الوسادة العادية"
+      ],
+      "common_mistakes": ["buying_single_stroller_planning_to_buy_second_later", "not_preparing_early_enough"],
+      "safety_flags": ["twins_often_preterm_check_gear_early"]
+    },
+    {
+      "id": "newborn_first_week",
+      "label": "First Week Home",
+      "label_ar": "الأسبوع الأول في المنزل",
+      "category": "newborn",
+      "weeks_range": [0, 1],
+      "preview": "Survival mode — you are doing great",
+      "preview_ar": "وضع البقاء — أنتِ رائعة",
+      "products_needed": ["newborn_diapers", "swaddle_blankets", "nasal_aspirator", "thermometer"],
+      "decisions_coming": ["feeding_method_confirmation", "first_pediatrician_visit", "sleep_location"],
+      "unknown_unknowns": [
+        "Newborns lose 7–10% of birth weight in week 1 — this is normal, your pediatrician knows",
+        "Umbilical cord stump care — keep dry, fold diaper below it, no baths until it falls off",
+        "Cluster feeding nights 2–3 are brutal — not a supply problem, just normal newborn behavior",
+        "Nasal aspirator is the most-used item you never thought to buy"
+      ],
+      "unknown_unknowns_ar": [
+        "المواليد يفقدون ٧–١٠٪ من وزن الولادة في الأسبوع الأول — هذا طبيعي",
+        "العناية بالحبل السري — أبقيه جافاً، ثني الحفاض تحته، لا حمامات حتى يسقط",
+        "ليالي الرضاعة المتكررة في اليومين الثاني والثالث شاقة — ليست مشكلة إمداد",
+        "شافطة الأنف هي أكثر أداة استخداماً لم تفكري في شرائها"
+      ],
+      "common_mistakes": ["panicking_at_weight_loss", "giving_baths_before_cord_falls"],
+      "safety_flags": ["never_shake_baby", "back_to_sleep_always"]
+    },
+    {
+      "id": "newborn_1_month",
+      "label": "Newborn 1 Month",
+      "label_ar": "المولود الجديد — شهر واحد",
+      "category": "newborn",
+      "weeks_range": [1, 4],
+      "preview": "Finding a rhythm",
+      "preview_ar": "إيجاد الإيقاع",
+      "products_needed": ["baby_carrier_newborn", "nursing_pads", "lanolin_cream", "baby_monitor"],
+      "decisions_coming": ["returning_to_sleep", "postpartum_checkup", "birth_certificate"],
+      "unknown_unknowns": [
+        "Baby carrier newborn insert — standard carriers need an insert for babies under 4kg",
+        "Postpartum hair loss peaks at 3–4 months — completely normal, not a health issue",
+        "Growth spurts at 3 weeks and 6 weeks cause 2–3 days of constant feeding — not supply loss"
+      ],
+      "unknown_unknowns_ar": [
+        "حشوة حامل الرضيع — الحوامل العادية تحتاج حشوة للأطفال تحت ٤ كيلو",
+        "تساقط الشعر بعد الولادة يبلغ ذروته في ٣–٤ أشهر — طبيعي تماماً",
+        "طفرات النمو في الأسبوع الثالث والسادس تسبب رضاعة مستمرة لـ٢–٣ أيام — ليست مشكلة إمداد"
+      ],
+      "common_mistakes": ["using_carrier_without_newborn_insert", "worrying_about_postpartum_hair_loss"],
+      "safety_flags": []
+    },
+    {
+      "id": "colic_period",
+      "label": "Colic Period",
+      "label_ar": "فترة المغص",
+      "category": "special",
+      "weeks_range": [3, 16],
+      "preview": "The hardest weeks — it will pass",
+      "preview_ar": "الأسابيع الأصعب — ستمر",
+      "products_needed": ["colic_drops", "white_noise_machine", "baby_swing", "gripe_water"],
+      "decisions_coming": ["feeding_adjustment", "pediatrician_consultation", "parental_self_care"],
+      "unknown_unknowns": [
+        "Colic peaks at 6 weeks and almost always resolves by 12–16 weeks — there is an end date",
+        "Baby swing (not bouncer) is the most effective colic tool most moms don't buy until desperate",
+        "Simethicone drops (gas drops) work for some, not others — try for 3 days before concluding"
+      ],
+      "unknown_unknowns_ar": [
+        "المغص يبلغ ذروته في الأسبوع السادس وينتهي تقريباً بالأسبوع ١٢–١٦",
+        "أرجوحة الطفل (وليس الكرسي الهزاز) هي الأداة الأكثر فعالية للمغص",
+        "قطرات ثيكول تعمل مع بعض الأطفال وليس مع آخرين — جربيها ٣ أيام قبل الحكم"
+      ],
+      "common_mistakes": ["giving_up_on_colic_drops_after_one_day", "not_trying_swing"],
+      "safety_flags": ["never_use_gripe_water_under_1_month_without_pediatrician_ok"]
+    },
+    {
+      "id": "sleep_regression_4w",
+      "label": "4-Week Sleep Regression",
+      "label_ar": "تراجع النوم في الأسبوع الرابع",
+      "category": "special",
+      "weeks_range": [3, 5],
+      "preview": "Temporary disruption — not a new normal",
+      "preview_ar": "اضطراب مؤقت — ليس وضعاً دائماً",
+      "products_needed": ["swaddle_upgraded", "white_noise_machine"],
+      "decisions_coming": ["sleep_strategy_early"],
+      "unknown_unknowns": [
+        "The 4-week regression lasts 1–2 weeks — it is not permanent, do not panic-change everything",
+        "Swaddle upgrade — babies outgrow newborn swaddles at 4–6 weeks, need larger size"
+      ],
+      "unknown_unknowns_ar": [
+        "تراجع الأسبوع الرابع يستمر أسبوعاً أو اثنين — ليس دائماً، لا تغيري كل شيء",
+        "ترقية قماش التقميط — الأطفال يتخطون مقاس المولود في الأسبوع ٤–٦"
+      ],
+      "common_mistakes": ["assuming_regression_is_permanent_new_normal"],
+      "safety_flags": []
+    },
+    {
+      "id": "infant_2_months",
+      "label": "2 Months",
+      "label_ar": "شهران",
+      "category": "infant",
+      "weeks_range": [6, 10],
+      "preview": "First smiles, first vaccines",
+      "preview_ar": "أول ابتسامة، أول لقاحات",
+      "products_needed": ["play_mat", "baby_lounger", "teething_toy_early"],
+      "decisions_coming": ["2_month_vaccines", "pediatrician_schedule", "tummy_time_routine"],
+      "unknown_unknowns": [
+        "2-month vaccines cause fever in 30% of babies — have infant paracetamol ready before the appointment",
+        "Tummy time from week 2 prevents flat head — most moms start too late",
+        "Sleep schedule starts to form at 8–10 weeks — small consistent routines now pay off at 4 months"
+      ],
+      "unknown_unknowns_ar": [
+        "لقاحات الشهرين تسبب حمى لـ٣٠٪ من الأطفال — احتفظي بالباراسيتامول قبل الموعد",
+        "وقت البطن من الأسبوع الثاني يمنع تسطح الرأس — معظم الأمهات يبدأن متأخرات جداً",
+        "جدول النوم يبدأ بالتشكل في الأسبوع ٨–١٠ — الروتين الصغير الآن يؤتي ثماره عند ٤ أشهر"
+      ],
+      "common_mistakes": ["skipping_tummy_time", "not_having_fever_reducer_ready"],
+      "safety_flags": []
+    },
+    {
+      "id": "infant_4_months",
+      "label": "4 Months",
+      "label_ar": "أربعة أشهر",
+      "category": "infant",
+      "weeks_range": [14, 18],
+      "preview": "The joy phase — and the big sleep regression",
+      "preview_ar": "مرحلة الفرح — وتراجع النوم الكبير",
+      "products_needed": ["highchair_early", "baby_carrier_forward_facing", "activity_center"],
+      "decisions_coming": ["sleep_training_consideration", "introducing_bottle_if_breastfed"],
+      "unknown_unknowns": [
+        "4-month sleep regression is the hardest one — sleep training before it is possible and effective",
+        "Bottle introduction — if you plan to return to work, introduce a bottle by week 6–8, not month 4",
+        "Starting solids at 6 months requires a highchair — buy it at 4 months to research properly"
+      ],
+      "unknown_unknowns_ar": [
+        "تراجع النوم في ٤ أشهر هو الأصعب — تدريب النوم قبله ممكن وفعّال",
+        "إدخال الزجاجة — إذا خططتِ للعودة للعمل، أدخلي الزجاجة بالأسبوع ٦–٨ وليس الشهر الرابع",
+        "بدء الطعام الصلب في ٦ أشهر يتطلب كرسي أكل — اشتريه في الشهر الرابع للبحث الجيد"
+      ],
+      "common_mistakes": ["introducing_bottle_too_late", "not_preparing_for_sleep_regression"],
+      "safety_flags": []
+    },
+    {
+      "id": "sleep_regression_4m",
+      "label": "4-Month Sleep Regression",
+      "label_ar": "تراجع النوم في ٤ أشهر",
+      "category": "special",
+      "weeks_range": [14, 20],
+      "preview": "This one is permanent — sleep changes forever",
+      "preview_ar": "هذا دائم — النوم يتغير للأبد",
+      "products_needed": ["white_noise_machine_upgrade", "sleep_sack"],
+      "decisions_coming": ["sleep_training_method", "night_weaning_plan"],
+      "unknown_unknowns": [
+        "Unlike other regressions, the 4-month change is permanent — sleep architecture changes forever",
+        "Sleep sack replaces swaddle at this stage — baby can now roll, swaddle becomes unsafe",
+        "Weighted sleep sacks are controversial — check your pediatrician's view before buying"
+      ],
+      "unknown_unknowns_ar": [
+        "على عكس باقي التراجعات، تراجع الأشهر الأربعة دائم — بنية النوم تتغير للأبد",
+        "كيس النوم يحل محل التقميط — الطفل يستطيع الآن الانقلاب، والتقميط يصبح غير آمن",
+        "أكياس النوم المثقلة مثيرة للجدل — تحققي من رأي طبيب الأطفال قبل الشراء"
+      ],
+      "common_mistakes": ["continuing_swaddle_past_rolling", "expecting_regression_to_end_on_its_own"],
+      "safety_flags": ["stop_swaddling_when_baby_can_roll"]
+    },
+    {
+      "id": "back_to_work",
+      "label": "Back to Work",
+      "label_ar": "العودة إلى العمل",
+      "category": "special",
+      "weeks_range": [8, 24],
+      "preview": "The logistics no one prepares you for",
+      "preview_ar": "اللوجستيات التي لا يجهزك لها أحد",
+      "products_needed": ["breast_pump_portable", "milk_storage_bags", "bottle_set_work", "nursing_cover"],
+      "decisions_coming": ["childcare_finalization", "pumping_schedule_work", "milk_supply_maintenance"],
+      "unknown_unknowns": [
+        "Childcare waitlists in Dubai/Abu Dhabi are 3–6 months long — register now, even if unsure",
+        "Pumping at work requires a schedule and a fridge — HR conversation needs to happen this week",
+        "Portable breast pump is different from hospital-grade — you likely need both",
+        "Milk storage bags have a 6-month freezer life — label with dates from day one"
+      ],
+      "unknown_unknowns_ar": [
+        "قوائم الانتظار في دور الحضانة بدبي وأبوظبي تمتد ٣–٦ أشهر — سجلي الآن حتى لو لم تتأكدي",
+        "الشفط في العمل يتطلب جدولاً وثلاجة — محادثة الموارد البشرية يجب أن تحدث هذا الأسبوع",
+        "مضخة الثدي المحمولة مختلفة عن المضخة المستشفوية — قد تحتاجين كلتيهما",
+        "أكياس تخزين الحليب لها مدة صلاحية ٦ أشهر في الفريزر — اكتبي التواريخ من اليوم الأول"
+      ],
+      "common_mistakes": ["leaving_childcare_too_late", "not_having_pumping_plan"],
+      "safety_flags": []
+    },
+    {
+      "id": "infant_6_months",
+      "label": "6 Months",
+      "label_ar": "ستة أشهر",
+      "category": "infant",
+      "weeks_range": [22, 26],
+      "preview": "Halfway to one — the fun really starts",
+      "preview_ar": "منتصف الطريق للسنة الأولى — المرح الحقيقي يبدأ",
+      "products_needed": ["highchair", "baby_food_maker", "silicone_spoons", "sippy_cup_early"],
+      "decisions_coming": ["solids_approach_puree_vs_blw", "first_foods_list", "allergy_introduction_plan"],
+      "unknown_unknowns": [
+        "Baby-led weaning requires a different highchair than puree feeding — strap and footrest matter",
+        "Allergen introduction should happen by 6 months — peanut, egg, dairy, wheat, fish",
+        "Starting solids does NOT reduce nighttime waking — common myth that causes disappointment"
+      ],
+      "unknown_unknowns_ar": [
+        "التغذية الذاتية تتطلب كرسي أكل مختلف — حزام القدم مهم",
+        "إدخال مسببات الحساسية يجب أن يحدث بحلول ٦ أشهر — الفول السوداني والبيضة والألبان",
+        "بدء الطعام الصلب لا يقلل من الاستيقاظ الليلي — خرافة شائعة تسبب خيبة الأمل"
+      ],
+      "common_mistakes": ["expecting_solids_to_fix_sleep", "delaying_allergen_introduction"],
+      "safety_flags": ["introduce_allergens_one_at_a_time_watch_48hrs"]
+    },
+    {
+      "id": "starting_solids",
+      "label": "Starting Solids",
+      "label_ar": "بدء الطعام الصلب",
+      "category": "special",
+      "weeks_range": [20, 28],
+      "preview": "New skill, new mess, new gear",
+      "preview_ar": "مهارة جديدة، فوضى جديدة، معدات جديدة",
+      "products_needed": ["highchair", "silicone_bibs", "suction_bowls", "baby_food_processor"],
+      "decisions_coming": ["puree_vs_blw", "food_introduction_schedule", "allergen_plan"],
+      "unknown_unknowns": [
+        "Suction bowls — babies will throw every bowl without suction. Non-negotiable item",
+        "Silicone bibs with a food catcher — fabric bibs are useless for solids",
+        "Baby food processor vs. blender — immersion blender is faster and easier to clean"
+      ],
+      "unknown_unknowns_ar": [
+        "أطباق الشفط — الأطفال سيرمون كل طبق بدون شفط. عنصر لا غنى عنه",
+        "مريلة السيليكون مع حافظ الطعام — مريلة القماش عديمة الفائدة للطعام الصلب",
+        "معالج غذاء الطفل مقابل الخلاط — الخلاط العمودي أسرع وأسهل في التنظيف"
+      ],
+      "common_mistakes": ["buying_fabric_bibs_for_solids", "no_suction_bowls"],
+      "safety_flags": ["choking_hazard_awareness", "no_honey_under_12_months", "no_salt_under_1_year"]
+    },
+    {
+      "id": "teething_begins",
+      "label": "Teething Begins",
+      "label_ar": "بدء التسنين",
+      "category": "special",
+      "weeks_range": [16, 32],
+      "preview": "The drool is real",
+      "preview_ar": "اللعاب حقيقي",
+      "products_needed": ["teething_rings", "amber_alternative_safe", "drool_bibs", "teething_gel_safe"],
+      "decisions_coming": ["teething_pain_relief_approach"],
+      "unknown_unknowns": [
+        "Amber teething necklaces are a strangulation and choking hazard — pediatricians recommend against them",
+        "Teething doesn't cause fever above 38°C — if that high, it's illness not teething",
+        "Cold teething rings work better than room-temperature — refrigerate not freeze"
+      ],
+      "unknown_unknowns_ar": [
+        "قلائد العنبر للتسنين خطر اختناق وخنق — يوصي أطباء الأطفال بعدم استخدامها",
+        "التسنين لا يسبب حمى فوق ٣٨ درجة — إذا كانت أعلى، فهي مرض وليس تسنيناً",
+        "حلقات التسنين الباردة أفعل من الحلقات في درجة الغرفة — برّدي لا تجمّدي"
+      ],
+      "common_mistakes": ["using_amber_necklaces", "attributing_fever_to_teething"],
+      "safety_flags": ["no_amber_teething_necklaces", "benzocaine_gels_not_safe_under_2"]
+    },
+    {
+      "id": "infant_8_months",
+      "label": "8 Months",
+      "label_ar": "ثمانية أشهر",
+      "category": "infant",
+      "weeks_range": [30, 34],
+      "preview": "Crawling, pulling up, baby-proofing urgently needed",
+      "preview_ar": "الزحف والوقوف — تأمين المنزل ضروري",
+      "products_needed": ["baby_gate", "corner_guards", "outlet_covers", "baby_proof_cabinet_locks"],
+      "decisions_coming": ["baby_proofing_audit", "standing_support_toys"],
+      "unknown_unknowns": [
+        "Baby gates — measure doorway width before ordering. Pressure vs wall-mounted matters",
+        "Outlet covers — standard ones are a choking hazard. Get sliding plate covers instead",
+        "Baby proofing a UAE apartment includes balcony safety — this is critical and often missed"
+      ],
+      "unknown_unknowns_ar": [
+        "بوابات الأمان — قيسي عرض الباب قبل الطلب. الضغط مقابل التثبيت بالجدار مهم",
+        "أغطية المقابس العادية خطر ابتلاع — استخدمي أغطية الشرائح الانزلاقية",
+        "تأمين شقة إماراتية يشمل أمان الشرفة — هذا بالغ الأهمية وغالباً ما يُغفل"
+      ],
+      "common_mistakes": ["using_choking_hazard_outlet_covers", "missing_balcony_safety"],
+      "safety_flags": ["balcony_safety_critical_in_gcc", "stair_gates_wall_mounted_only_at_top"]
+    },
+    {
+      "id": "infant_10_months",
+      "label": "10 Months",
+      "label_ar": "عشرة أشهر",
+      "category": "infant",
+      "weeks_range": [38, 44],
+      "preview": "Standing, cruising, almost walking",
+      "preview_ar": "الوقوف والتنقل — قريباً من المشي",
+      "products_needed": ["push_walker", "soft_sole_shoes", "stacking_toys"],
+      "decisions_coming": ["first_shoes_timing", "weaning_plan", "first_birthday_prep"],
+      "unknown_unknowns": [
+        "First shoes should be soft-soled — hard shoes before walking impede development",
+        "Push walkers (not bouncer walkers) develop walking — bouncers actually delay walking",
+        "First birthday in GCC often includes aqiqah if not done — plan 6 weeks in advance"
+      ],
+      "unknown_unknowns_ar": [
+        "الأحذية الأولى يجب أن تكون بنعل ناعم — الأحذية الصلبة قبل المشي تعيق التطور",
+        "دافعات المشي (وليس كرسي الأرجوحة) تطور المشي — كراسي الأرجوحة تؤخر المشي فعلاً",
+        "عيد الميلاد الأول في الخليج غالباً ما يشمل العقيقة إذا لم تُقم — خططي قبل ٦ أسابيع"
+      ],
+      "common_mistakes": ["buying_hard_shoes_too_early", "using_bouncer_walker"],
+      "safety_flags": ["bouncer_walkers_not_recommended_aap_cps"]
+    },
+    {
+      "id": "first_birthday",
+      "label": "First Birthday",
+      "label_ar": "عيد الميلاد الأول",
+      "category": "toddler",
+      "weeks_range": [48, 56],
+      "preview": "Milestone milestone milestone",
+      "preview_ar": "إنجاز إنجاز إنجاز",
+      "products_needed": ["convertible_car_seat", "toddler_shoes", "shape_sorter", "toddler_books"],
+      "decisions_coming": ["car_seat_upgrade", "milk_transition_plan", "nursery_start_consideration"],
+      "unknown_unknowns": [
+        "Infant car seat expires — at 12 months many babies outgrow infant seats. Time for convertible",
+        "Whole milk transition at 12 months — from formula or breast milk. This needs a plan",
+        "Separation anxiety peaks at 12–18 months — worst time to start nursery, plan around it"
+      ],
+      "unknown_unknowns_ar": [
+        "مقعد السيارة للرضع له تاريخ انتهاء — في ١٢ شهراً كثير من الأطفال يكبرون عنه",
+        "الانتقال لحليب البقر في ١٢ شهراً — من الحليب الصناعي أو حليب الأم. يحتاج خطة",
+        "قلق الانفصال يبلغ ذروته في ١٢–١٨ شهراً — أسوأ وقت لبدء الحضانة، خططي حوله"
+      ],
+      "common_mistakes": ["keeping_infant_car_seat_too_long", "abrupt_milk_transition"],
+      "safety_flags": ["check_car_seat_weight_height_limits"]
+    },
+    {
+      "id": "toddler_18_months",
+      "label": "18 Months",
+      "label_ar": "ثمانية عشر شهراً",
+      "category": "toddler",
+      "weeks_range": [72, 80],
+      "preview": "Language explosion and big feelings",
+      "preview_ar": "انفجار اللغة ومشاعر كبيرة",
+      "products_needed": ["toddler_books_bilingual", "shape_sorter_advanced", "art_supplies_toddler"],
+      "decisions_coming": ["bilingual_development_plan", "screen_time_policy", "nursery_enrollment"],
+      "unknown_unknowns": [
+        "Bilingual families in GCC — Arabic and English development needs deliberate input, not assumption",
+        "18-month sleep regression is real and often worse than the 4-month one",
+        "Nursery waitlists in Dubai — top nurseries have 6–12 month waits. Apply now for next year"
+      ],
+      "unknown_unknowns_ar": [
+        "العائلات ثنائية اللغة في الخليج — تطوير العربية والإنجليزية يحتاج مدخلات مقصودة",
+        "تراجع النوم في ١٨ شهراً حقيقي وغالباً أسوأ من تراجع ٤ أشهر",
+        "قوائم الانتظار في حضانات دبي — أفضل الحضانات لديها انتظار ٦–١٢ شهراً. قدّمي الآن"
+      ],
+      "common_mistakes": ["assuming_bilingualism_happens_naturally", "missing_nursery_application_window"],
+      "safety_flags": []
+    },
+    {
+      "id": "sleep_regression_18m",
+      "label": "18-Month Sleep Regression",
+      "label_ar": "تراجع النوم في ١٨ شهراً",
+      "category": "special",
+      "weeks_range": [72, 84],
+      "preview": "Another one — this one is about independence",
+      "preview_ar": "مرة أخرى — هذه المرة عن الاستقلالية",
+      "products_needed": ["ok_to_wake_clock", "sleep_training_book"],
+      "decisions_coming": ["ok_to_wake_clock_introduction", "bedtime_routine_reinforcement"],
+      "unknown_unknowns": [
+        "OK-to-wake clock is a game changer at 18 months — toddlers respond to visual cues not verbal",
+        "This regression is driven by developmental leaps in language and independence — not fixable by schedule changes"
+      ],
+      "unknown_unknowns_ar": [
+        "ساعة الاستيقاظ المقبول تغير قواعد اللعبة في ١٨ شهراً — الأطفال الصغار يستجيبون للإشارات البصرية",
+        "هذا التراجع مدفوع بطفرات التطور في اللغة والاستقلالية — تغيير الجدول لن يحله"
+      ],
+      "common_mistakes": ["changing_entire_sleep_routine_in_response"],
+      "safety_flags": []
+    },
+    {
+      "id": "toddler_2_years",
+      "label": "2 Years",
+      "label_ar": "سنتان",
+      "category": "toddler",
+      "weeks_range": [96, 104],
+      "preview": "Terrific twos (not terrible)",
+      "preview_ar": "سنتان الرائعتان",
+      "products_needed": ["balance_bike", "art_table", "potty_training_seat", "toddler_bed_guard"],
+      "decisions_coming": ["potty_training_timing", "big_bed_transition", "preschool_applications"],
+      "unknown_unknowns": [
+        "Balance bike before pedal bike — skips training wheels and teaches balance faster",
+        "Preschool applications in Dubai/Abu Dhabi for age 3 open when child is 2 — apply now",
+        "Potty training readiness signs — not age-based. Watch for the signs, not the calendar"
+      ],
+      "unknown_unknowns_ar": [
+        "دراجة التوازن قبل الدراجة ذات الدواسات — تتخطى عجلات التدريب وتعلم التوازن أسرع",
+        "طلبات الروضة في دبي وأبوظبي للعمر ٣ سنوات تفتح عندما يبلغ الطفل ٢ — قدّمي الآن",
+        "علامات الاستعداد للتدريب على الحمام — ليست بالعمر. راقبي العلامات وليس التقويم"
+      ],
+      "common_mistakes": ["forcing_potty_training_by_age", "missing_preschool_application_window"],
+      "safety_flags": []
+    },
+    {
+      "id": "potty_training",
+      "label": "Potty Training",
+      "label_ar": "تدريب الحمام",
+      "category": "special",
+      "weeks_range": [72, 156],
+      "preview": "Readiness-based, not calendar-based",
+      "preview_ar": "بناءً على الاستعداد وليس العمر",
+      "products_needed": ["potty_seat", "training_pants", "step_stool_bathroom", "reward_chart"],
+      "decisions_coming": ["potty_training_method", "night_training_plan"],
+      "unknown_unknowns": [
+        "Boys typically train 3–6 months later than girls — normal, not a problem",
+        "Night dryness comes 6–12 months after daytime — different skill, different timeline",
+        "Travel potty — essential for GCC road trips, malls, and outings in the Gulf heat"
+      ],
+      "unknown_unknowns_ar": [
+        "الأولاد عادةً يتدربون ٣–٦ أشهر بعد البنات — طبيعي، ليس مشكلة",
+        "الجفاف الليلي يأتي بعد ٦–١٢ شهراً من النهار — مهارة مختلفة، جدول زمني مختلف",
+        "الحمام المحمول — ضروري لرحلات خليجية، مولات، وتنزهات في حر الخليج"
+      ],
+      "common_mistakes": ["night_training_too_early", "boys_vs_girls_timeline_anxiety"],
+      "safety_flags": []
+    },
+    {
+      "id": "first_illness",
+      "label": "First Illness",
+      "label_ar": "أول مرض",
+      "category": "special",
+      "weeks_range": [6, 52],
+      "preview": "Scary but manageable",
+      "preview_ar": "مخيف لكن قابل للإدارة",
+      "products_needed": ["thermometer_rectal", "nasal_saline_drops", "fever_reducer_infant", "humidifier"],
+      "decisions_coming": ["when_to_call_pediatrician", "emergency_room_thresholds"],
+      "unknown_unknowns": [
+        "Rectal temperature is most accurate for under-3-month babies — not axillary or ear",
+        "Fever under 38°C in babies over 3 months — watch and wait, not ER",
+        "Nasal saline + aspirator before any other treatment — clears airway, often fixes feeding issues"
+      ],
+      "unknown_unknowns_ar": [
+        "درجة الحرارة الشرجية هي الأدق للأطفال دون ٣ أشهر — وليس الإبط أو الأذن",
+        "حمى تحت ٣٨ درجة للأطفال فوق ٣ أشهر — راقبي وانتظري، ليس طوارئ",
+        "محلول ملحي أنفي + شافطة قبل أي علاج آخر — يفتح مجرى الهواء وغالباً يحل مشاكل الرضاعة"
+      ],
+      "common_mistakes": ["rushing_to_ER_for_low_fever", "using_ear_thermometer_on_newborn"],
+      "safety_flags": ["fever_in_baby_under_3_months_is_always_ER"]
+    },
+    {
+      "id": "postpartum_recovery",
+      "label": "Postpartum Recovery",
+      "label_ar": "التعافي بعد الولادة",
+      "category": "special",
+      "weeks_range": [0, 12],
+      "preview": "Your recovery matters too",
+      "preview_ar": "تعافيك مهم أيضاً",
+      "products_needed": ["postpartum_pads", "sitz_bath", "nursing_bra_postpartum", "stool_softener"],
+      "decisions_coming": ["postpartum_checkup", "mental_health_screening", "physical_recovery_plan"],
+      "unknown_unknowns": [
+        "Postpartum bleeding (lochia) lasts 4–6 weeks — stock more pads than you think",
+        "Postpartum depression affects 1 in 5 moms — Edinburgh scale at 6-week checkup is important",
+        "C-section recovery — no lifting above baby weight for 6 weeks, scar care starts week 6"
+      ],
+      "unknown_unknowns_ar": [
+        "النفاس يستمر ٤–٦ أسابيع — احتفظي بفوط أكثر مما تعتقدين",
+        "اكتئاب ما بعد الولادة يصيب واحدة من كل خمس أمهات — مقياس إدنبرة في فحص الأسبوع السادس مهم",
+        "التعافي من القيصرية — لا رفع فوق وزن الطفل لـ٦ أسابيع، العناية بالندبة تبدأ الأسبوع السادس"
+      ],
+      "common_mistakes": ["ignoring_ppd_symptoms", "too_early_physical_activity_post_csection"],
+      "safety_flags": ["postpartum_depression_is_medical_seek_help"]
+    },
+    {
+      "id": "weaning",
+      "label": "Weaning from Breast",
+      "label_ar": "الفطام",
+      "category": "special",
+      "weeks_range": [24, 104],
+      "preview": "When and how — your choice",
+      "preview_ar": "متى وكيف — اختيارك",
+      "products_needed": ["formula_toddler", "sippy_cup_transition", "comfort_item_alternative"],
+      "decisions_coming": ["weaning_timeline", "replacement_nutrition_plan", "comfort_strategy"],
+      "unknown_unknowns": [
+        "Gradual weaning (drop one feed per week) is easier on both mom and baby than cold turkey",
+        "Engorgement management — cabbage leaves in bra is evidence-based and effective",
+        "Toddler formula is optional after 12 months — whole milk + varied diet is sufficient"
+      ],
+      "unknown_unknowns_ar": [
+        "الفطام التدريجي (قطع رضعة في الأسبوع) أسهل للأم والطفل من القطع المفاجئ",
+        "علاج احتقان الثدي — أوراق الملفوف في حمالة الصدر فعّالة علمياً",
+        "حليب الأطفال الكبار اختياري بعد ١٢ شهراً — حليب البقر الكامل مع نظام غذائي متنوع كافٍ"
+      ],
+      "common_mistakes": ["abrupt_weaning_causing_engorgement", "assuming_toddler_formula_necessary"],
+      "safety_flags": []
+    },
+    {
+      "id": "childcare_prep",
+      "label": "Starting Nursery / Childcare",
+      "label_ar": "بدء الحضانة",
+      "category": "special",
+      "weeks_range": [12, 52],
+      "preview": "The transition takes longer than you think",
+      "preview_ar": "الانتقال يستغرق وقتاً أطول مما تتوقعين",
+      "products_needed": ["nursery_bag", "change_of_clothes_labeled", "comfort_item"],
+      "decisions_coming": ["settling_in_schedule", "sickness_policy_understanding", "emergency_contact_setup"],
+      "unknown_unknowns": [
+        "Settling-in period in UAE nurseries is 2–4 weeks — you cannot just drop and leave on day 1",
+        "Label everything — clothes, bottles, blankets, shoes. UAE nurseries are large",
+        "First 3 months of nursery = constant illness cycle — build up your sick-child backup plan now"
+      ],
+      "unknown_unknowns_ar": [
+        "فترة التأقلم في حضانات الإمارات ٢–٤ أسابيع — لا يمكنك الترك والمغادرة في اليوم الأول",
+        "ضعي اسمك على كل شيء — ملابس، زجاجات، بطانيات، أحذية. حضانات الإمارات كبيرة",
+        "أول ٣ أشهر في الحضانة = دورة مرض مستمرة — ضعي خطة طوارئ للطفل المريض الآن"
+      ],
+      "common_mistakes": ["not_labeling_items", "no_sick_child_backup_plan"],
+      "safety_flags": []
+    },
+    {
+      "id": "unknown",
+      "label": "Situation Unclear",
+      "label_ar": "الوضع غير واضح",
+      "category": "special",
+      "weeks_range": [0, 999],
+      "preview": "Tell me more about your situation",
+      "preview_ar": "أخبريني المزيد عن وضعك",
+      "products_needed": [],
+      "decisions_coming": [],
+      "unknown_unknowns": [],
+      "unknown_unknowns_ar": [],
+      "common_mistakes": [],
+      "safety_flags": []
+    }
+  ],
+  "edges": [
+    {"from": "early_pregnancy", "to": "second_trimester", "type": "will_happen", "weeks_until": 9, "probability": 1.0},
+    {"from": "second_trimester", "to": "28_weeks_pregnant", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "28_weeks_pregnant", "to": "32_weeks_pregnant", "type": "will_happen", "weeks_until": 4, "probability": 1.0},
+    {"from": "28_weeks_pregnant", "to": "twins_pregnancy", "type": "contextual", "weeks_until": 0, "probability": 1.0, "condition": "has_twins == true"},
+    {"from": "28_weeks_pregnant", "to": "preterm_risk", "type": "might_happen", "weeks_until": 2, "probability": 0.08},
+    {"from": "32_weeks_pregnant", "to": "36_weeks_pregnant", "type": "will_happen", "weeks_until": 4, "probability": 1.0},
+    {"from": "36_weeks_pregnant", "to": "newborn_first_week", "type": "will_happen", "weeks_until": 4, "probability": 1.0},
+    {"from": "36_weeks_pregnant", "to": "postpartum_recovery", "type": "will_happen", "weeks_until": 4, "probability": 1.0},
+    {"from": "newborn_first_week", "to": "newborn_1_month", "type": "will_happen", "weeks_until": 1, "probability": 1.0},
+    {"from": "newborn_first_week", "to": "colic_period", "type": "likely_happens", "weeks_until": 3, "probability": 0.4},
+    {"from": "newborn_first_week", "to": "first_illness", "type": "might_happen", "weeks_until": 4, "probability": 0.3},
+    {"from": "newborn_1_month", "to": "infant_2_months", "type": "will_happen", "weeks_until": 4, "probability": 1.0},
+    {"from": "newborn_1_month", "to": "sleep_regression_4w", "type": "likely_happens", "weeks_until": 2, "probability": 0.7},
+    {"from": "newborn_1_month", "to": "colic_period", "type": "likely_happens", "weeks_until": 2, "probability": 0.4},
+    {"from": "infant_2_months", "to": "infant_4_months", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "infant_2_months", "to": "back_to_work", "type": "contextual", "weeks_until": 4, "probability": 0.9, "condition": "is_working_mom == true"},
+    {"from": "infant_4_months", "to": "sleep_regression_4m", "type": "likely_happens", "weeks_until": 2, "probability": 0.75},
+    {"from": "infant_4_months", "to": "infant_6_months", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "infant_4_months", "to": "teething_begins", "type": "might_happen", "weeks_until": 4, "probability": 0.3},
+    {"from": "infant_6_months", "to": "starting_solids", "type": "will_happen", "weeks_until": 2, "probability": 1.0},
+    {"from": "infant_6_months", "to": "infant_8_months", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "infant_6_months", "to": "teething_begins", "type": "likely_happens", "weeks_until": 2, "probability": 0.6},
+    {"from": "infant_8_months", "to": "infant_10_months", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "infant_8_months", "to": "first_illness", "type": "likely_happens", "weeks_until": 4, "probability": 0.5},
+    {"from": "infant_10_months", "to": "first_birthday", "type": "will_happen", "weeks_until": 8, "probability": 1.0},
+    {"from": "infant_10_months", "to": "weaning", "type": "might_happen", "weeks_until": 4, "probability": 0.4},
+    {"from": "first_birthday", "to": "toddler_18_months", "type": "will_happen", "weeks_until": 24, "probability": 1.0},
+    {"from": "first_birthday", "to": "childcare_prep", "type": "likely_happens", "weeks_until": 8, "probability": 0.6},
+    {"from": "toddler_18_months", "to": "sleep_regression_18m", "type": "likely_happens", "weeks_until": 2, "probability": 0.65},
+    {"from": "toddler_18_months", "to": "toddler_2_years", "type": "will_happen", "weeks_until": 26, "probability": 1.0},
+    {"from": "toddler_18_months", "to": "potty_training", "type": "might_happen", "weeks_until": 8, "probability": 0.3},
+    {"from": "toddler_2_years", "to": "potty_training", "type": "likely_happens", "weeks_until": 4, "probability": 0.7},
+    {"from": "twins_pregnancy", "to": "preterm_risk", "type": "likely_happens", "weeks_until": 4, "probability": 0.6},
+    {"from": "twins_pregnancy", "to": "newborn_first_week", "type": "will_happen", "weeks_until": 8, "probability": 1.0}
+  ]
+}
