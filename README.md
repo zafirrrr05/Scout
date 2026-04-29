@@ -174,10 +174,10 @@ Every example in the brief is stateless — one input, one output. Mumzworld's a
 
 | Phase | Time |
 |-------|------|
-| Problem framing + architecture design | 1.5h |
+| Problem framing + architecture design | 1h |
 | Knowledge graph construction (50 nodes, edges, unknown unknowns) | 2h |
-| Backend: models, extractor, generator, RAG, API | 3h |
+| Backend: models, extractor, generator, RAG, API | 2h |
 | Eval harness (16 cases, judge, EVALS.md) | 1.5h |
-| Frontend (React, all components, CSS design system) | 2.5h |
+| Frontend (React, all components, CSS design system) | 2h |
 | Testing, polish, README, execution.md | 1h |
-| **Total** | **~11.5h** |
+| **Total** | **~9.5h** |
